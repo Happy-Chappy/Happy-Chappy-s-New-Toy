@@ -1,2 +1,2 @@
-# Happy-Chappy-s-New-Toy
-Learning Curve
+# Happy-Chappy's-New-Toy
+Learning Curve Number 1
